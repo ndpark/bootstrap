@@ -28,6 +28,7 @@ p.large {
 
 p.caption{
     font-size: 13px;
+    text-align: middle;
     display: inline-block;
     font-style: italic;
 }
@@ -57,7 +58,6 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
@@ -181,7 +181,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    /* font-family: 'Oswald', sans-serif; */
+    font-family: Montserrat;
     color: #ff8c1a;
 }
 
@@ -786,7 +786,7 @@ ul.social-buttons li a:active {
     min-height: 100%;
     border: 0;
     border-radius: 0;
-    text-align: center;
+    text-align: left;
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;

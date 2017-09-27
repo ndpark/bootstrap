@@ -172,15 +172,13 @@ h2{
 h3{
     font-size: 22px;
     line-height: 24px;
-  	text-transform: uppercase;
   	font-weight: 500;
   	 color: #566366;
 }
 
 h4{
     font-size: 18px;
-    line-height: 20px;
-    font-weight: 700;
+    line-height: 20px;;
 }
 
 h5{
